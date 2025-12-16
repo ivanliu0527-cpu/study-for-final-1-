@@ -1,9 +1,9 @@
 import streamlit as st
 
 st.title("Streamlit Demo App")
-st.header("User Input Section")
+st.header("*User Input Section*")
 
-st.write("Please provide your details below:")
+st.write("**Please provide your details below:**")
 
 age = st.number_input("Enter your age:",
                       min_value=0,
