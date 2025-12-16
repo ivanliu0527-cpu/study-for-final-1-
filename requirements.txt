@@ -1,1 +1,1 @@
-streanmlit
+streamlit
