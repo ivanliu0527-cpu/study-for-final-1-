@@ -10,7 +10,7 @@ age = st.number_input("Enter your age:",
                       max_value=120,
                       value=25,
                      step=10)
-name = st.string_input("Enter your name")
+name = st.text_input("Enter your name")
 color = st.selectbox("Choose your favorite color:",
                      ["Red", "Blue", "Green"])
 
